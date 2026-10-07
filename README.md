@@ -33,7 +33,7 @@ Fix is error tracking with a Sentry-SDK-compatible ingest endpoint. Point the `@
 
 ## Part of the me.at family
 
-fix.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+fix.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
